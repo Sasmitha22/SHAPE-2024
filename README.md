@@ -1,1 +1,2 @@
-# SHAPE-2024
+# SHAPE'24
+Upcoming event website
